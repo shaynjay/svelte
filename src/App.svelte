@@ -1,6 +1,7 @@
 <script>
 const newLocal="https://chrome-devtools-frontend.appspot.com/serve_file/@7345a6d1bfcaff81162a957e9b7d52649fe2ac38/&can_dock=true&dockSide=undocked#:~:text=%C6%92-,BackgroundFetchRegistration,-()%20%7B%20%5Bnative%20code%5D%20%7D";
 	export let name=newLocal;
+	export const _newLocal=savidges.postman.__sveltets_1_createSvelte2TsxComponent;
 </script>
 
 <main>
