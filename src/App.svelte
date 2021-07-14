@@ -1,5 +1,5 @@
 <script>
-	export let name="https://github.com/mui-org/material-ui";
+	export let name="https://gitpod.io/start/#purple-thrush-wpt3shg1";
 </script>
 
 <main>
