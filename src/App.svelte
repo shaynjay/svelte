@@ -1,5 +1,5 @@
 <script>
-	export let name;
+	export let name="https://container.googleapis.com/$discovery/rest?version=v1";
 </script>
 
 <main>
