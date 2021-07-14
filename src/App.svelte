@@ -1,5 +1,5 @@
 <script>
-	export let name="https://container.googleapis.com/$discovery/rest?version=v1";
+	export let name="https://github.com/mui-org/material-ui";
 </script>
 
 <main>
